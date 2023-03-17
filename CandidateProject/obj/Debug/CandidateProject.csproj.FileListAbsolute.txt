@@ -1,0 +1,4 @@
+/Users/shivanimatam/Downloads/CandidateProject-original 2/CandidateProject/obj/Debug/CandidateProject.csproj.AssemblyReference.cache
+/Users/shivanimatam/Downloads/CandidateProject-original 2/CandidateProject/obj/Debug/CandidateProject.csproj.CoreCompileInputs.cache
+/Users/shivanimatam/Downloads/CandidateProject/CandidateProject/obj/Debug/CandidateProject.csproj.AssemblyReference.cache
+/Users/shivanimatam/Downloads/CandidateProject/CandidateProject/obj/Debug/CandidateProject.csproj.CoreCompileInputs.cache
